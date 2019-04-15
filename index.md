@@ -17,6 +17,7 @@ In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is ab
     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2019}
 }
+```
 
 ## Acknowledgements
 
