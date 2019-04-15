@@ -6,7 +6,7 @@ In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is ab
 
 ## Video
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+{% include youtubePlayer.html id="4EU7vvSvV-0" %}
 
 ```markdown
 Syntax highlighted code block
