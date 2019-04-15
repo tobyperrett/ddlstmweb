@@ -4,7 +4,7 @@ Domain alignment in convolutional networks aims to learn the degree of layer-spe
 
 In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is able to learn temporal dependencies from two domains concurrently.  It performs cross-contaminated batch normalisation on both input-to-hidden and hidden-to-hidden weights, and learns the parameters for cross-contamination, for both single-layer and multi-layer LSTM architectures. We evaluate DDLSTM on frame-level action recognition using three datasets, taking a pair at a time, and report an average increase in accuracy of 3.5\%. The proposed DDLSTM architecture outperforms standard, fine-tuned, and batch-normalised LSTMs.
 
-### Markdown
+## Video
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
