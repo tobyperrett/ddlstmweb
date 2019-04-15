@@ -6,7 +6,7 @@ In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is ab
 
 ## Video
 
-{% include youtubePlayer.html id="4EU7vvSvV-0" %}
+{% include youtubePlayer.html id="8MtC6X4w4jE" %}
 
 ```markdown
 Syntax highlighted code block
