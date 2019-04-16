@@ -12,9 +12,9 @@ In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is ab
 
 ```markdown
 @InProceedings{perrettdamen19ddlstm,
-    author    = "Perrett, Toby and Damen, Dima",
-    title     = "{DDLSTM}: {D}ual-{D}omain {LSTM} for {C}ross-{D}ataset {A}ction {R}ecognition",
-    booktitle = "{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}",
+    author    = {Perrett, Toby and Damen, Dima},
+    title     = {DDLSTM}: {D}ual-{D}omain {LSTM} for {C}ross-{D}ataset {A}ction {R}ecognition,
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2019}
 }
 ```
