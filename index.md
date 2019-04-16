@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-size:30px">
 <a href="https://tobyperrett.github.io/">Toby Perrett</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
