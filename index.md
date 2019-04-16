@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="Toby Perrett">https://tobyperrett.github.io/</a>
+<a href="https://tobyperrett.github.io/">Toby Perrett</a>
 </p>
 
 ## Abstract
