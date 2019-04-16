@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 title: "DDLSTM: Dual-Domain LSTM for Cross-Dataset Action Recognition"
+description:  "[Toby Perrett](https://tobyperrett.github.io/) and [Dima Damen](https://dimadamen.github.io/)"
