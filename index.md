@@ -1,8 +1,4 @@
 <p align="center">
-# [Toby Perrett](https://tobyperrett.github.io/) and [Dima Damen](https://dimadamen.github.io/)
-</p>
-
-<p align="center">
 <a href="https://tobyperrett.github.io/">Toby Perrett</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
