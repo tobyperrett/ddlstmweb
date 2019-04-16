@@ -1,3 +1,7 @@
+[Toby Perrett](https://tobyperrett.github.io/) and [Dima Damen](https://dimadamen.github.io/)
+
+
+
 ## Abstract
 
 Domain alignment in convolutional networks aims to learn the degree of layer-specific feature alignment beneficial to the joint learning of source and target datasets. While increasingly popular in convolutional networks, there have been no previous attempts to achieve domain alignment in recurrent networks. Similar to spatial features, both source and target domains are likely to exhibit temporal dependencies that can be jointly learnt and aligned.
