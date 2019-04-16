@@ -1,5 +1,10 @@
+<p align="center">
 # [Toby Perrett](https://tobyperrett.github.io/) and [Dima Damen](https://dimadamen.github.io/)
+</p>
 
+<p align="center">
+<a href="Toby Perrett">https://tobyperrett.github.io/</a>
+</p>
 
 ## Abstract
 
