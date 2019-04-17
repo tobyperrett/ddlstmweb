@@ -33,4 +33,4 @@ In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is ab
 ```
 
 ## Acknowledgements
-This research is supported by EPSRC LOCATE (EP/N033779/1).
+This research is supported by [EPSRC LOCATE (EP/N033779/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N033779/1).
