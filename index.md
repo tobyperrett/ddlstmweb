@@ -2,7 +2,7 @@
 <a href="https://tobyperrett.github.io/">Toby Perrett</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
-![Image](2x3.pdf)
+![Image](2x3.jpg)
 
 ## Abstract
 
