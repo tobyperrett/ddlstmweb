@@ -19,7 +19,7 @@ In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is ab
 
 ## Paper
 
-[PDF](ddlstm.pdf)
+[PDF](main.pdf)
 
 [ArXiv](https://arxiv.org/)
 
