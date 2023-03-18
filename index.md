@@ -1,4 +1,6 @@
-[Toby Perrett](), [Saptarshi Sinha](), [Tilo Burghardt](), [Majid Mirmehdi]() and [Dima Damen]()
+<p align="center" style="font-size:30px">
+<a href="https://tobyperrett.github.io/">Toby Perrett</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
+</p>
 
 ![Image](2x3.jpg)
 
